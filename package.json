@@ -4,13 +4,14 @@
   "description": "A colorful dark theme for VS code",
   "publisher": "AakashSethi",
   "pricing": "Free",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.92.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "./img/icon.png",
   "license": "MIT",
   "homepage": "https://github.com/ASethi77/watermelon-plum-vscode-theme/",
   "repository": {

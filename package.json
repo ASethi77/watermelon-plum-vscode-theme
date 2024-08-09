@@ -1,0 +1,31 @@
+{
+  "name": "watermelon-plum-color-theme",
+  "displayName": "Watermelon Plum Color Theme",
+  "description": "A colorful dark theme for VS code",
+  "publisher": "AakashSethi",
+  "pricing": "Free",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/microsoft/vscode-wordcount.git"
+  },
+  "galleryBannery": {
+    "color": "#ea5348",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Watermelon Plum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Watermelon Plum-color-theme.json"
+      }
+    ]
+  }
+}

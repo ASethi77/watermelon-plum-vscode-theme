@@ -11,9 +11,11 @@
   "categories": [
     "Themes"
   ],
+  "license": "MIT",
+  "homepage": "https://github.com/ASethi77/watermelon-plum-vscode-theme/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/microsoft/vscode-wordcount.git"
+    "url": "https://github.com/ASethi77/watermelon-plum-vscode-theme.git"
   },
   "galleryBannery": {
     "color": "#ea5348",
